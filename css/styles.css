@@ -6,6 +6,14 @@ body {
   margin: 0;
   padding: 0;
 }
+#header {
+  background: #33a;
+  color: white;
+  margin: 0;
+  font-weight: bold;
+  padding: 0.5em;
+  box-shadow: 0px 2px 50px 0px rgba(0, 0, 0, 0.5);
+}
 #container {
   width: 70%;
   padding: 1em;
